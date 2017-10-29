@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "api_handler_name": "ukradlimi-dev",
+    "api_handler_arn": "arn:aws:lambda:eu-west-1:704698159641:function:ukradlimi-dev",
+    "lambda_functions": {},
+    "backend": "api",
+    "chalice_version": "1.0.4",
+    "rest_api_id": "nfve4zw03a",
+    "api_gateway_stage": "api",
+    "region": "eu-west-1"
+  }
+}
